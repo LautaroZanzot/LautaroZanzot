@@ -20,7 +20,7 @@ My passion for cybersecurity started as a child but my journey through computer 
 |Case MAnagement with TheHive                                           |SOC Automation Lab |
 |Scripting and Automation for Threar Mitigation                         |SOC Automation Lab |
 |Network Forensics with WireShark                                       |<a href="https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/">Detection Lab</a>|
-|
+
 
 ## Tools
 
