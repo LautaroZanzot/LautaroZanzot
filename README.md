@@ -49,6 +49,11 @@ My passion for cybersecurity started as a child but my journey through computer 
 <img src="https://img.shields.io/badge/python-blue?style=for-the-badge" />
 </div>
 
+### Database
+<div>
+<img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://drive.google.com/drive/folders/17EjrLDwjfk-mEe97oS7yAIWkM1wlJl77?usp=sharing">EducaciónIT</a>
