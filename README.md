@@ -13,8 +13,8 @@ My passion for cybersecurity started as a child but my journey through computer 
 
 | Skill                                                                 | Associated Project |
 |-----------------------------------------------------------------------|--------------------|
-|SIEM Implementation and Log Analysis                                   |SOC Automation Lab |
-|Network Traffic Monitoring and Attack Detection                        |SOC Automation Lab |
+|SIEM Implementation and Log Analysis                                   |<a href="https://google.com">Detection Lab</a>| |
+|Network Traffic Monitoring and Attack Detection                        |<a href="https://google.com">Detection Lab</a>| |
 |Security Automation with Suffle SOAR                                   |SOC Automation Lab |
 |Incident Respone Planning and Execution                                |SOC Automation Lab |
 |Case MAnagement with TheHive                                           |SOC Automation Lab |
