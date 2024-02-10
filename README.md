@@ -13,12 +13,12 @@ My passion for cybersecurity started as a child but my journey through computer 
 
 | Skill                                                                 | Associated Project |
 |-----------------------------------------------------------------------|--------------------|
-|SIEM Implementation and Log Analysis                                   |<a href="https://google.com">Detection Lab</a>| |
-|Network Traffic Monitoring and Attack Detection                        |<a href="https://google.com">Detection Lab</a>| |
-|Security Automation with Suffle SOAR                                   |SOC Automation Lab |
-|Incident Respone Planning and Execution                                |SOC Automation Lab |
-|Case MAnagement with TheHive                                           |SOC Automation Lab |
-|Scripting and Automation for Threar Mitigation                         |SOC Automation Lab |
+|SIEM Implementation and Log Analysis                                   |Detection Lab       |
+|Network Traffic Monitoring and Attack Detection                        |Detection Lab       |
+|Security Automation with Suffle SOAR                                   |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
+|Incident Respone Planning and Execution                                |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
+|Case Management with TheHive                                           |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
+|Scripting and Automation for Threat Mitigation                         |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Network Forensics with WireShark                                       |<a href="https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/](https://cyberdefenders.org/p/LautaroZanzot#/challenges">Network Forensic Lab</a>|
 
 
