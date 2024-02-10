@@ -15,7 +15,7 @@ My passion for cybersecurity started as a child but my journey through computer 
 |-----------------------------------------------------------------------|--------------------|
 |SIEM Implementation and Log Analysis                                   |Detection Lab       |
 |Network Traffic Monitoring and Attack Detection                        |Detection Lab       |
-|Security Automation with Suffle SOAR                                   |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
+|Security Automation with Shuffle SOAR                                   |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Incident Respone Planning and Execution                                |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Case Management with TheHive                                           |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Scripting and Automation for Threat Mitigation                         |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
