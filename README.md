@@ -1,5 +1,6 @@
 ## Hello, I´m Lautaro
-<a href="https://www.linkedin.com/in/lautaro-zanzot-lescano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lautaro-zanzot-lescano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label="/></a> 
 
 
 I am a computer science student with a profound interest in cybersecurity
@@ -57,7 +58,8 @@ My passion for cybersecurity started as a child but my journey through computer 
 ## Certifications
 <div>
 <a href="https://drive.google.com/drive/folders/17EjrLDwjfk-mEe97oS7yAIWkM1wlJl77?usp=sharing">EducaciónIT</a>
+<a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url">Google</a>
 </div>
 
 ## Projects
-- Test Project
+SOC-Automation-Project
