@@ -45,20 +45,29 @@ My passion for cybersecurity started as a child but my journey through computer 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Programming language
+### Launguajes
 <div>
-<img src="https://img.shields.io/badge/python-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+### Hosting
+<div>
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
 </div>
 
 ### Database
 <div>
-<img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
+    <img serc="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
+    <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" />
 </div>
 
 ## Certifications
 <div>
-<a href="https://drive.google.com/drive/folders/17EjrLDwjfk-mEe97oS7yAIWkM1wlJl77?usp=sharing">EducaciónIT</a>
-<a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url">Google</a>
+    <a href="https://drive.google.com/drive/folders/17EjrLDwjfk-mEe97oS7yAIWkM1wlJl77?usp=sharing">EducaciónIT</a>
+    <a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url">Google</a>
+</div>
 
 ## Projects
 SOC-Automation-Project
