@@ -14,7 +14,7 @@ My passion for cybersecurity started as a child but my journey through computer 
 
 | Skill                                                                 | Associated Project |
 |-----------------------------------------------------------------------|--------------------|
-|BugBounty                                                              |BBP HackerOne       |
+|BugBounty Program                                                      |BBP HackerOne       |
 |SIEM Implementation and Log Analysis                                   |Detection Lab       |
 |Network Traffic Monitoring and Attack Detection                        |Detection Lab       |
 |Security Automation with Shuffle SOAR                                   |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
@@ -31,6 +31,7 @@ My passion for cybersecurity started as a child but my journey through computer 
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/OWASP-Breakers-red" />
 </div>
 
 ### Endpoint
@@ -67,7 +68,16 @@ My passion for cybersecurity started as a child but my journey through computer 
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+
+## Security Platforms
+<div>
+    <img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
+</div>
+
 
 ## Certifications
 <div>
@@ -78,3 +88,4 @@ My passion for cybersecurity started as a child but my journey through computer 
 
 ## Projects
 SOC-Automation-Project
+Detection Lab
