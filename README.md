@@ -1,4 +1,4 @@
-## Hello, I´m Lautaro
+## Hello, I´m Lautaro Zanzot
 <a href="https://www.linkedin.com/in/lautaro-zanzot-lescano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google&color=4285F4&logo=Google&logoColor=FFFFFF&label="/></a> 
 
@@ -14,6 +14,7 @@ My passion for cybersecurity started as a child but my journey through computer 
 
 | Skill                                                                 | Associated Project |
 |-----------------------------------------------------------------------|--------------------|
+|Web Develompment                                                      |       |
 |BugBounty Program                                                      |BBP HackerOne       |
 |SIEM Implementation and Log Analysis                                   |Detection Lab       |
 |Network Traffic Monitoring and Attack Detection                        |Detection Lab       |
