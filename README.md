@@ -21,7 +21,7 @@ My passion for cybersecurity started as a child but my journey through computer 
 |Incident Respone Planning and Execution                                |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Case Management with TheHive                                           |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
 |Scripting and Automation for Threat Mitigation                         |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
-|Network Forensics with WireShark                                       |<a href="https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/](https://cyberdefenders.org/p/LautaroZanzot#/challenges">Network Forensic Lab</a>|
+|Network Forensics with WireShark                                       |Network Forensic Lab|
 
 
 ## Tools
