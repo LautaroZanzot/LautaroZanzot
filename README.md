@@ -84,6 +84,8 @@ My passion for cybersecurity started as a child but my journey through computer 
 <div>
     <a href="https://drive.google.com/drive/folders/17EjrLDwjfk-mEe97oS7yAIWkM1wlJl77?usp=sharing">EducaciónIT</a>
     <a href="https://www.credly.com/badges/cc03ea97-c00e-4f5e-8c91-d5730df14698/public_url">Google</a>
+    <a href="https://www.credly.com/badges/f7ea8501-4009-4731-8a85-025f5a896173/linked_in_profile">Security +</a>
+    <a >BTL 1</a>
     
 </div>
 
