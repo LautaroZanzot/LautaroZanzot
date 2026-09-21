@@ -15,7 +15,6 @@ My passion for cybersecurity started as a child but my journey through computer 
 | Skill                                                                 | Associated Project |
 |-----------------------------------------------------------------------|--------------------|
 |Web Develompment [LandingPage]                                         |<a href="https://github.com/LautaroZanzot/LandingPageContenedoresMG">Landing Page</a> |       |
-|BugBounty Program                                                      |BBP HackerOne       |
 |SIEM Implementation and Log Analysis                                   |Detection Lab       |
 |Network Traffic Monitoring and Attack Detection                        |Detection Lab       |
 |Security Automation with Shuffle SOAR                                   |<a href="https://github.com/LautaroZanzot/SOC-Automation-Project/tree/main">SOC Automation Lab</a> |
